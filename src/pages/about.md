@@ -53,6 +53,8 @@ Built a regression model to forecast purchase amount for user sessions on a larg
 
 Tools: Python, Pandas, Scikit-learn, Kaggle
 
+Repository: [github.com/jashmevada/DL_ML_Projects](https://github.com/jashmevada/DL_ML_Projects)
+
 ### House Price Prediction (2026)
 
 Built a regression model to predict house prices from location, size, and amenities.

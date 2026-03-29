@@ -29,6 +29,7 @@ export const SOCIALS: Social[] = [
     linkTitle: `${SITE.title} on LinkedIn`,
     icon: IconLinkedin,
   },
+
   // {
   //   name: "Mail",
   //   href: "mailto:jashmevada@gmail.com",

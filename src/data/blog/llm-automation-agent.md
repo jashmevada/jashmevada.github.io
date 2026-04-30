@@ -2,6 +2,7 @@
 title: "LLM-based Automation Agent"
 description: "Built an LLM-powered automation agent using Python, FastAPI, and the OpenAI API as part of the Tools in Data Science course at IIT Madras."
 pubDatetime: 2025-05-01T00:00:00Z
+category: "project"
 tags: ["python", "llm", "fastapi", "openai", "automation"]
 featured: true
 ---

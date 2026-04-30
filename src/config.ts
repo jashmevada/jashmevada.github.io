@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://jashmevada.dev/", // replace this with your deployed domain
+  website: "https://jashmevada.github.io/",
   author: "Jash Mevada",
   profile: "https://github.com/jashmevada",
   desc: "I build things that learn from data models, pipelines, systems, end to end. Data Science at IIT Madras.",
@@ -9,7 +9,7 @@ export const SITE = {
   postPerIndex: 4,
   postPerPage: 4,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
-  showArchives: true,
+  showArchives: false,
   showBackButton: true, // show back button in post detail
   editPost: {
     enabled: false,

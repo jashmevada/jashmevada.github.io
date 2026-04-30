@@ -2,6 +2,7 @@
 title: "Quiz Master"
 description: "A full-stack quiz application built with Flask and Vue.js, featuring a REST API backend, SQLite database, and Redis caching."
 pubDatetime: 2025-09-01T00:00:00Z
+category: "project"
 tags: ["flask", "vue", "rest-api", "sqlite", "redis", "fullstack"]
 ---
 

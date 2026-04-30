@@ -44,8 +44,9 @@ const isActive = (path: string) => {
   >
     <a
       href="/"
-      class="absolute py-1 text-xl leading-8 font-semibold whitespace-nowrap sm:static sm:my-auto sm:text-2xl sm:leading-none"
+      class="absolute py-1 text-xl leading-8 font-semibold whitespace-nowrap sm:static sm:my-auto sm:text-2xl sm:leading-none flex items-center gap-2"
     >
+      <!-- <img src="/favicon.ico" alt="favicon" class="size-6 sm:size-7" /> -->
       {SITE.title}
     </a>
     <nav
@@ -74,6 +75,11 @@ const isActive = (path: string) => {
         <li class="col-span-2">
           <a href="/posts" class:list={{ "active-nav": isActive("/posts") }}>
             Projects
+          </a>
+        </li>
+        <li class="col-span-2">
+          <a href="/blog" class:list={{ "active-nav": isActive("/blog") }}>
+            Blogs
           </a>
         </li>
         <li class="col-span-2">

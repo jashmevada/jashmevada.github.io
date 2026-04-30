@@ -2,6 +2,7 @@
 title: "Neuromorphic Vision Bird Classification using Spiking Neural Networks"
 description: "End-to-end pipeline converting RGB videos into event-based DVS data using an IEBCS simulator, then classifying bird species with a Spiking Neural Network."
 pubDatetime: 2026-01-01T00:00:00Z
+category: "project"
 tags: ["spiking-neural-networks", "neuromorphic", "pytorch", "computer-vision", "python"]
 featured: true
 ---

@@ -2,6 +2,7 @@
 title: "House Price Prediction"
 description: "Regression model predicting house prices from location, size, and amenity features, built for the Machine Learning Practice course at IIT Madras."
 pubDatetime: 2026-02-01T00:00:00Z
+category: "project"
 tags: ["machine-learning", "regression", "scikit-learn", "python", "kaggle"]
 ---
 

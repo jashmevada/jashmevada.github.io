@@ -2,6 +2,7 @@
 title: "Predictive Modeling for Customer Conversion"
 description: "Built a regression model to forecast total purchase amount for user sessions on a large-scale e-commerce platform, for the Machine Learning Practice course at IIT Madras."
 pubDatetime: 2025-06-01T00:00:00Z
+category: "project"
 tags: ["machine-learning", "regression", "scikit-learn", "python", "kaggle"]
 ---
 

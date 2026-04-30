@@ -2,6 +2,7 @@
 title: "Multi Label Emotion Classification Using Deep Learning"
 description: "Trained a multi-label emotion classifier using PyTorch and Weights & Biases for the Introduction to Deep Learning and GenAI course at IIT Madras."
 pubDatetime: 2025-08-01T00:00:00Z
+category: "project"
 tags: ["deep-learning", "pytorch", "nlp", "wandb", "python"]
 featured: true
 ---
